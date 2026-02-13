@@ -1,0 +1,1851 @@
+{
+  "annotation_date" : "2026-02-12",
+  "cards" : [
+    {
+      "filename" : "IMG_6365.HEIC",
+      "lines" : [
+        {
+          "id" : "ED72F3F9-312A-497C-9E7D-00A34C4E5103",
+          "label" : "ORG",
+          "text" : "EMBASSY OF THE REPUBLIC OF UZBEKISTAN"
+        },
+        {
+          "id" : "C16F206D-E272-4388-A9CB-1226A68CBBE1",
+          "label" : "NAME",
+          "text" : "Alisher Kayumov"
+        },
+        {
+          "id" : "D2AA9FB9-F888-4BF6-A24A-303EF45CC4F9",
+          "label" : "TITLE",
+          "text" : "Ambassador Extraordinary and Plenipotentiary"
+        },
+        {
+          "id" : "21882575-926F-434E-9FDF-43B5000FD96C",
+          "label" : "ADDR",
+          "text" : "20 Kramat Lane, United House #04-01"
+        },
+        {
+          "id" : "6ED7FF05-0078-420F-863F-5AD3F87F5C92",
+          "label" : "ADDR",
+          "text" : "Singapore 228773"
+        },
+        {
+          "id" : "C10DD2CB-13F8-46B0-8A74-32512F3563AC",
+          "label" : "O",
+          "text" : "Email: a.kayumov@uzembassy.sg"
+        },
+        {
+          "id" : "21734A9F-2080-42B8-8BDE-3E854701C41D",
+          "label" : "O",
+          "text" : "Tel : +65 6734 3942/43"
+        },
+        {
+          "id" : "F3F0EC75-F1CA-4BF2-AF4E-2A527798E21E",
+          "label" : "O",
+          "text" : "Fax: +65 6734 5849"
+        },
+        {
+          "id" : "81F12860-8633-47AF-B008-3D6FEAFDA60D",
+          "label" : "O",
+          "text" : "Mob : +65 9674 1088"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6366.HEIC",
+      "lines" : [
+        {
+          "id" : "39C323B5-6078-4C79-A123-0B785DC46E99",
+          "label" : "O",
+          "text" : "US"
+        },
+        {
+          "id" : "2FA51AB1-F22A-4BDC-8B08-D6A783EA83E5",
+          "label" : "ORG",
+          "text" : "NATIONAL AEROSPACE &"
+        },
+        {
+          "id" : "797F7F23-A2D7-40BD-ABE9-96D02AB1463C",
+          "label" : "ORG",
+          "text" : "DEFENCE INDUSTRIES SDN BHD"
+        },
+        {
+          "id" : "99FBED23-F63A-4E2B-9EE4-6FFFCF8B9EAD",
+          "label" : "O",
+          "text" : "(112324V)"
+        },
+        {
+          "id" : "EF6CCC97-DBB9-4177-85E7-07D23DB550CC",
+          "label" : "TITLE",
+          "text" : "Head of Business Development,"
+        },
+        {
+          "id" : "885596A1-0649-4E94-8913-2E7FB817E1CE",
+          "label" : "ORG",
+          "text" : "NADI Group"
+        },
+        {
+          "id" : "4F93CEE8-E697-4BD7-B26F-A95A94D1ED19",
+          "label" : "ADDR",
+          "text" : "NADI Building, PT 192,"
+        },
+        {
+          "id" : "4818C644-5733-43A1-BF9C-8C4A135B6319",
+          "label" : "ADDR",
+          "text" : "Jalan Lapangan Terbang Subang,"
+        },
+        {
+          "id" : "831718EC-4BC5-4E8E-88FF-3A6256F740B4",
+          "label" : "ADDR",
+          "text" : "47200 Subang,"
+        },
+        {
+          "id" : "2C1B40EE-FD2B-4052-B0F4-029D6DD2E299",
+          "label" : "ADDR",
+          "text" : "Selangor Darul Ehsan, Malaysia."
+        },
+        {
+          "id" : "421E2B7D-14EC-416B-A271-1F6775048205",
+          "label" : "O",
+          "text" : "T • +603 7844 7100"
+        },
+        {
+          "id" : "98AC0038-D3A1-4FC8-8D8F-385EBCC602DC",
+          "label" : "O",
+          "text" : "M • +6012 282 1056"
+        },
+        {
+          "id" : "0BEB665B-64BD-4839-811E-A1437FDE1AF0",
+          "label" : "O",
+          "text" : "E • pietro@nadimalaysia.com"
+        },
+        {
+          "id" : "9E2E8FF4-88C4-4F9C-974A-F740E5491684",
+          "label" : "O",
+          "text" : "www.nadimalaysia.com"
+        },
+        {
+          "id" : "48E42DA8-6526-451B-813B-EB1DADD4DBBF",
+          "label" : "O",
+          "text" : "DEFEN"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6367.HEIC",
+      "lines" : [
+        {
+          "id" : "5611FD34-4FA5-4B05-8781-D913F7E80E71",
+          "label" : "NAME",
+          "text" : "Dipl.-Ing. Thorsten Heinke"
+        },
+        {
+          "id" : "53531827-B8B8-4F12-82AF-3EE87C58845B",
+          "label" : "TITLE",
+          "text" : "Director Flight Inspection"
+        },
+        {
+          "id" : "2C0A79FC-22D7-4319-B301-B98A0F938C1A",
+          "label" : "O",
+          "text" : "+49 531 - 2359 - 118"
+        },
+        {
+          "id" : "DE765AB2-A55D-4F4A-9DD3-606F0A273485",
+          "label" : "O",
+          "text" : "+49 171 - 3078579"
+        },
+        {
+          "id" : "F7230229-2820-4FF6-9D84-06920E71AA0E",
+          "label" : "O",
+          "text" : "+49 531 - 2359 - 222"
+        },
+        {
+          "id" : "9A858DC3-4CD0-4889-BA89-0B7D55BE03E8",
+          "label" : "O",
+          "text" : "thorsten.heinke@aerodata.de"
+        },
+        {
+          "id" : "E9F783DC-6746-4382-A716-C224CBAFDE5E",
+          "label" : "ORG",
+          "text" : "Aerodata AG"
+        },
+        {
+          "id" : "1E027D55-270F-420B-A802-B284F2A4AA5D",
+          "label" : "ADDR",
+          "text" : "Hermann-Blenk-Str. 34 - 36"
+        },
+        {
+          "id" : "6055BCAD-651F-4188-B445-75151E528CF9",
+          "label" : "ADDR",
+          "text" : "38108 Braunschweig | Germany"
+        },
+        {
+          "id" : "9284C9C6-CF54-4FBB-AF2E-AACBF74AE0D0",
+          "label" : "O",
+          "text" : "www.aerodata.de"
+        },
+        {
+          "id" : "00E2E701-0132-403C-97F6-BCFFD9F34566",
+          "label" : "O",
+          "text" : "aerodata"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6368.HEIC",
+      "lines" : [
+        {
+          "id" : "3928F084-C796-474A-99BF-1E11D9849959",
+          "label" : "NAME",
+          "text" : "CARL-FREDRIK HAMMARBÄCK"
+        },
+        {
+          "id" : "5CA15E94-B9DA-4750-BCF6-1B5EDF5124A7",
+          "label" : "TITLE",
+          "text" : "CEO"
+        },
+        {
+          "id" : "FF7EA83A-2410-41AD-B674-B544C6DBE0FD",
+          "label" : "ADDR",
+          "text" : "LÖFSTRÖMS ALLÉ 5"
+        },
+        {
+          "id" : "B5F2534D-92DB-4180-B2FD-A6E276723D5E",
+          "label" : "ADDR",
+          "text" : "SUNDBYBERG 172 66 SWEDEN"
+        },
+        {
+          "id" : "85FC4E7D-80BA-4B82-970E-37C4D4613FCA",
+          "label" : "ORG",
+          "text" : "AIRBORNESYSTEMS.SE"
+        },
+        {
+          "id" : "5F16E4F1-2BB3-4E7D-94CF-A9BD908C9A08",
+          "label" : "O",
+          "text" : "CARL-FREDRIK.HAMMARBACK"
+        },
+        {
+          "id" : "B490D9C8-6549-4691-85A5-FC32387E79FA",
+          "label" : "O",
+          "text" : "@AIRBORNESYSTEMS.SE"
+        },
+        {
+          "id" : "FAFC4836-A3D9-4B80-BC7A-78BC119F6993",
+          "label" : "O",
+          "text" : "+46 73 300 5242"
+        },
+        {
+          "id" : "8596BBEC-968A-4FB4-98F7-D59C3537904D",
+          "label" : "O",
+          "text" : "+46 8 122 129 00"
+        },
+        {
+          "id" : "134CB519-5561-4649-BF3A-C06A53CD63FD",
+          "label" : "O",
+          "text" : "+"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6369.HEIC",
+      "lines" : [
+        {
+          "id" : "A4552837-C016-4780-8F81-48A1743BAA20",
+          "label" : "ORG",
+          "text" : "ST AIRBORNE SYSTEMS"
+        },
+        {
+          "id" : "D39DAD3E-9792-407A-9B37-D9FED9D270A4",
+          "label" : "O",
+          "text" : "Experts in maritime surveillance"
+        },
+        {
+          "id" : "F5866093-5866-4AE2-9219-B962938B5532",
+          "label" : "NAME",
+          "text" : "Olov Fast"
+        },
+        {
+          "id" : "FD6DE1F5-14E7-4437-BD17-DFF11F8FFE32",
+          "label" : "ADDR",
+          "text" : "Löfströms Allé 5 • SE-172 66 Sundbyberg • Sweden"
+        },
+        {
+          "id" : "67CBFB23-362C-4032-97B7-ECE1B12645C2",
+          "label" : "O",
+          "text" : "Phone +46 8 122 129 00 • Mobile +46 70 590 63 06"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6370.HEIC",
+      "lines" : [
+        {
+          "id" : "E605124A-88C1-468F-8848-58108AA0860F",
+          "label" : "ORG",
+          "text" : "ST AIRBORNE SYSTEMS"
+        },
+        {
+          "id" : "D626451E-C5F7-4EC6-90FA-AA168E751014",
+          "label" : "O",
+          "text" : "Experts in maritime surveillance"
+        },
+        {
+          "id" : "730B6EB1-F597-4E00-A374-4B60F26EF364",
+          "label" : "NAME",
+          "text" : "Dora Zhang"
+        },
+        {
+          "id" : "77EB741E-D847-4B91-B305-943FA23879CB",
+          "label" : "TITLE",
+          "text" : "Head of Asia"
+        },
+        {
+          "id" : "366C5510-D2F4-48B4-9593-4FBC055C466F",
+          "label" : "O",
+          "text" : "Mobile: +65 8181 8958"
+        },
+        {
+          "id" : "226AFE0D-7E85-4A18-8C9B-E140BA812281",
+          "label" : "O",
+          "text" : "dora.zhang@airbornesystems.se"
+        },
+        {
+          "id" : "4DB0B3A5-13C3-4F4D-89F6-82244AFB2703",
+          "label" : "O",
+          "text" : "www.airbornesystems.se"
+        },
+        {
+          "id" : "8F9BA56B-3AC6-4F76-903B-49DC08C23002",
+          "label" : "O",
+          "text" : "Business Sweden"
+        },
+        {
+          "id" : "4B494D52-2F92-4F9E-9882-045A30333793",
+          "label" : "ADDR",
+          "text" : "260 Orchard Road, #07-01 The Heeren, Singapore 238855"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6371.HEIC",
+      "lines" : [
+        {
+          "id" : "88DC6CB5-3192-444D-92FC-1D1FEB6454DC",
+          "label" : "ORG",
+          "text" : "Ministry of"
+        },
+        {
+          "id" : "DB5A0F65-F1D5-4A70-911B-196AD7752195",
+          "label" : "ORG",
+          "text" : "National Defense"
+        },
+        {
+          "id" : "4DB22D23-5077-4E87-9146-893C06D46211",
+          "label" : "ORG",
+          "text" : "Republic of Korea"
+        },
+        {
+          "id" : "C78C2F59-44A2-42CB-9685-D2024CB640D4",
+          "label" : "DEPT",
+          "text" : "Defense Industry Cooperation Division"
+        },
+        {
+          "id" : "1A1C0F93-82DD-4B8E-A190-E16ED31F196A",
+          "label" : "TITLE",
+          "text" : "Deputy Director"
+        },
+        {
+          "id" : "13CB1FC8-613C-46E6-B5B4-00854723B127",
+          "label" : "NAME",
+          "text" : "Kim Pilsoo"
+        },
+        {
+          "id" : "C09A0DBD-8F40-4DBC-9EF7-BE59DE6762D5",
+          "label" : "ADDR",
+          "text" : "22, Itaewon-ro, Yongsan-gu, Seoul, Korea 04383"
+        },
+        {
+          "id" : "236CB973-DE29-4439-AFC6-6F3DB007FC7E",
+          "label" : "O",
+          "text" : "Tel : +82-2-748-5428 Mobile : +82-10-8192-0521"
+        },
+        {
+          "id" : "57913103-E004-4A6D-89CC-500FB662806F",
+          "label" : "O",
+          "text" : "E-mail : kps922@korea.kr"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6372.HEIC",
+      "lines" : [
+        {
+          "id" : "4F719B81-1427-4F5C-80AB-C5EA088945BD",
+          "label" : "ORG",
+          "text" : "Ministry of"
+        },
+        {
+          "id" : "D6B2FCFF-DF9A-4970-AA58-A6BD72F9C67D",
+          "label" : "ORG",
+          "text" : "National Defense"
+        },
+        {
+          "id" : "ED6A9E7D-C12D-4890-B5F1-12D041A0A5E3",
+          "label" : "ORG",
+          "text" : "Republic of Korea"
+        },
+        {
+          "id" : "60354F84-9B31-414C-AD02-DFD222AE8232",
+          "label" : "DEPT",
+          "text" : "Interpreter/Defense Exports Support"
+        },
+        {
+          "id" : "06406FAF-7912-466A-9EA8-4D481E977E59",
+          "label" : "NAME",
+          "text" : "Jungho Kim"
+        },
+        {
+          "id" : "32FA3B3E-F532-4B80-813D-2FBCC647F8EA",
+          "label" : "ADDR",
+          "text" : "22, ltaewon, Yongsan-gu,"
+        },
+        {
+          "id" : "4644FFC0-BBA5-4F9A-8E73-37D0BE26A1D7",
+          "label" : "ADDR",
+          "text" : "Seoul, Korea 04383"
+        },
+        {
+          "id" : "92BFD1A2-B3C1-472D-82D3-D489464497B8",
+          "label" : "O",
+          "text" : "Tel: +82-2-748-5498"
+        },
+        {
+          "id" : "3E4AEB13-9AA9-4FF1-8B27-943683C7F359",
+          "label" : "O",
+          "text" : "Mobile: +82-10-4129-0438"
+        },
+        {
+          "id" : "9D2727B4-88F4-4CEF-A1C1-AD6D290D6F73",
+          "label" : "O",
+          "text" : "E-mail : ddyjd@korea.kr"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6373.HEIC",
+      "lines" : [
+        {
+          "id" : "02DA82F5-2A85-4B48-99B3-837BBD729EB4",
+          "label" : "ORG",
+          "text" : "Danantara"
+        },
+        {
+          "id" : "10675E5A-C629-4B08-BAB5-16B21AB4EF54",
+          "label" : "ORG",
+          "text" : "Indonesia"
+        },
+        {
+          "id" : "FBBFEBF4-C379-4D1D-ADE0-EE2310FE9E31",
+          "label" : "ORG",
+          "text" : "PT DIRGANTARA INDONESIA"
+        },
+        {
+          "id" : "0BAF8885-E3F6-4FFC-BC4B-D8EB44208B53",
+          "label" : "NAME",
+          "text" : "Gita Amperiawan"
+        },
+        {
+          "id" : "14792076-B643-4604-AA27-78A1EE2EB7A2",
+          "label" : "TITLE",
+          "text" : "President Director"
+        },
+        {
+          "id" : "FC681657-B558-4721-B728-E0EBC29B2C8E",
+          "label" : "O",
+          "text" : "0 +62 812 5260 914"
+        },
+        {
+          "id" : "8730451C-DEB5-43C7-9B98-F08B347941F8",
+          "label" : "ADDR",
+          "text" : "Head Office:"
+        },
+        {
+          "id" : "CE31FC19-306C-4B9E-A22F-F0D0E34F9604",
+          "label" : "ADDR",
+          "text" : "JI. Pajajaran No. 154"
+        },
+        {
+          "id" : "27BA235B-5E10-47D8-BA7E-BCFF6570EFAC",
+          "label" : "ADDR",
+          "text" : "Bandung, 40174, Indonesia"
+        },
+        {
+          "id" : "27405270-35FC-4B95-A57F-75BC081902CC",
+          "label" : "O",
+          "text" : "Phone: +62 22 6033907"
+        },
+        {
+          "id" : "E92EED6B-29C6-43AA-8FBA-3632DD5B7348",
+          "label" : "ADDR",
+          "text" : "Jakarta Office:"
+        },
+        {
+          "id" : "C52700D7-5FA0-4BC7-9905-98B635A5E568",
+          "label" : "ADDR",
+          "text" : "Menara MTH Lantai 9, Suite 905"
+        },
+        {
+          "id" : "10551732-0651-451C-82A0-C2184231D926",
+          "label" : "ADDR",
+          "text" : "Jl. Letjen MT. Haryono Kav. 23, Jakarta - 12820"
+        },
+        {
+          "id" : "C0F4405D-67BA-43D3-9AA2-CA194815D6BD",
+          "label" : "O",
+          "text" : "Phone: +62 21 83782466"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6374.HEIC",
+      "lines" : [
+        {
+          "id" : "8344A49D-8C3B-4424-AE10-E2CE9D82EB81",
+          "label" : "ORG",
+          "text" : "EMBASSY OF THE REPUBLIC OF LITHUANIA"
+        },
+        {
+          "id" : "31E0FB0C-0F86-46F1-96D4-CA19908E3BA8",
+          "label" : "NAME",
+          "text" : "Arunas KARLONAS"
+        },
+        {
+          "id" : "9A215881-F2C9-4499-8451-33D9857BD797",
+          "label" : "TITLE",
+          "text" : "Commercial Affairs Counsellor"
+        },
+        {
+          "id" : "AB99AD90-099B-400B-B7F7-65D3F4C2B52A",
+          "label" : "ADDR",
+          "text" : "18 Robinson Rd. #10-01,"
+        },
+        {
+          "id" : "A8AC228B-90FA-425D-97D5-81D325CAEE77",
+          "label" : "ADDR",
+          "text" : "048547 Singapore"
+        },
+        {
+          "id" : "C839E255-B854-42F4-9099-3918D35B3E8F",
+          "label" : "O",
+          "text" : "https://eimin.Irv.lt/en/"
+        },
+        {
+          "id" : "6E48D467-68AA-4EE3-8E9A-2DE64FD74140",
+          "label" : "O",
+          "text" : "https://sg.mfa.lt/"
+        },
+        {
+          "id" : "C1FEF6AF-C529-43F3-A09F-24FEBCBE03A1",
+          "label" : "O",
+          "text" : "Phone +656 2 323772"
+        },
+        {
+          "id" : "52BF3CCE-60F2-4420-A670-515EDAAE8AEF",
+          "label" : "O",
+          "text" : "Mob. +659 7 227369"
+        },
+        {
+          "id" : "C6E0D89E-2138-4D90-8B2B-66F61AF434F3",
+          "label" : "O",
+          "text" : "E-mail: arunas.karlonas@urm.lt"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6375.HEIC",
+      "lines" : [
+        {
+          "id" : "3E1C66DA-EBD9-44D2-9B04-2C84DF516076",
+          "label" : "NAME",
+          "text" : "Lieutenant General"
+        },
+        {
+          "id" : "6A5F3839-36C4-492F-BC02-DAC74C522137",
+          "label" : "NAME",
+          "text" : "MOMMA Masahito"
+        },
+        {
+          "id" : "AAB45126-5ADD-43AD-8A92-5A627CE32773",
+          "label" : "TITLE",
+          "text" : "Vice Chief of Staff Koku-Jieitai"
+        },
+        {
+          "id" : "93332CEB-044A-4840-A82E-16870406DC35",
+          "label" : "ORG",
+          "text" : "(Japan Air Self-Defense Force)"
+        },
+        {
+          "id" : "7BD2707B-8C08-4A88-AE88-A7773CD784A3",
+          "label" : "ADDR",
+          "text" : "ICHIGAYA AB 5-1 Ichigaya-honmura cho,"
+        },
+        {
+          "id" : "210FA19A-C7B8-4359-A517-695A3103E944",
+          "label" : "ADDR",
+          "text" : "Shinjuku-ku Tokyo, 162-8804 JAPAN"
+        },
+        {
+          "id" : "1434FA07-368C-4B7C-B1C5-5ED2F06AA437",
+          "label" : "O",
+          "text" : "Phone : 03-5227-2200"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6376.HEIC",
+      "lines" : [
+        {
+          "id" : "27EA56D7-6769-4B50-BF0B-77C0EE16D32B",
+          "label" : "NAME",
+          "text" : "LUCIANO MAZZA DE ANDRADE"
+        },
+        {
+          "id" : "9A57BC97-279D-44B8-AB7E-3E7974B8E8B5",
+          "label" : "TITLE",
+          "text" : "Ambassador"
+        },
+        {
+          "id" : "B6439621-228A-47F1-B7C9-01245F009F01",
+          "label" : "ORG",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "0CBE2E54-2E8E-48CE-9EBB-E46C928AF772",
+          "label" : "ADDR",
+          "text" : "101 Thomson Road"
+        },
+        {
+          "id" : "3E29A41B-33F0-4648-9277-A5D2BE6CBA68",
+          "label" : "ADDR",
+          "text" : "#29-01/03 United Square"
+        },
+        {
+          "id" : "08954FED-2663-4DF5-8CDE-FA6BC873D008",
+          "label" : "ADDR",
+          "text" : "Singapore 307591"
+        },
+        {
+          "id" : "883F158D-CEE5-4DEF-B8F1-343DB58C77E6",
+          "label" : "O",
+          "text" : "W: +65 6603 9365"
+        },
+        {
+          "id" : "1AE3AF8E-5B5F-4CA0-A900-3D2DF232B584",
+          "label" : "O",
+          "text" : "M: +65 8608 3053"
+        },
+        {
+          "id" : "7F750332-E862-4CDB-AAC5-0B43617B9587",
+          "label" : "O",
+          "text" : "luciano.mazza@itamaraty.gov.br"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6377.HEIC",
+      "lines" : [
+        {
+          "id" : "9BD1E982-24F1-400E-A9B3-143C75144A61",
+          "label" : "ORG",
+          "text" : "REPUBLIKORP"
+        },
+        {
+          "id" : "AA9203BE-FBB6-4537-AD29-6FF122D39873",
+          "label" : "ORG",
+          "text" : "DEFENCE INDUSTRY HOLDING"
+        },
+        {
+          "id" : "4671A549-C651-45C1-A01A-7F9D62AA1F68",
+          "label" : "ADDR",
+          "text" : "OFFICE :"
+        },
+        {
+          "id" : "592A1763-F5E5-4669-8AAE-1DD520F5A44C",
+          "label" : "ADDR",
+          "text" : "RPX BUILDING 9TH FLOOR"
+        },
+        {
+          "id" : "FF05FDC4-B5C8-4B8C-9F94-92A0FE5E7224",
+          "label" : "ADDR",
+          "text" : "CIPUTAT RAYA NO. 99. SOUTH JAKARTA"
+        },
+        {
+          "id" : "09B3AAE0-9C22-4343-B6BD-E726EAB63178",
+          "label" : "ADDR",
+          "text" : "INDONESIA, 12310"
+        },
+        {
+          "id" : "C5D09CB0-B44F-4025-BF8A-0BC67F90C81A",
+          "label" : "O",
+          "text" : "+62 21 75 918 007"
+        },
+        {
+          "id" : "769F9CC7-DF8A-4005-ADCB-B8D34818666E",
+          "label" : "ADDR",
+          "text" : "FACTORY :"
+        },
+        {
+          "id" : "6B619407-FF07-47C7-948E-F260CC9E21D1",
+          "label" : "ADDR",
+          "text" : "HORIZON INDUSTRIAL PARK"
+        },
+        {
+          "id" : "64406087-6927-4A81-A892-79B7329FFDEE",
+          "label" : "ADDR",
+          "text" : "BLOK C-O1-C-O2, BLOK D SUNGANI LEKOP"
+        },
+        {
+          "id" : "0D307C1C-54DD-40D3-8F75-ED4E0C5CB5E4",
+          "label" : "ADDR",
+          "text" : "BATAM - INDONESIA, 29472"
+        },
+        {
+          "id" : "73FE2DF2-20C7-46C3-AC36-4155434D2717",
+          "label" : "NAME",
+          "text" : "RENDI CASMONO"
+        },
+        {
+          "id" : "2F706435-FCFF-4F14-9B62-C47CA24F8605",
+          "label" : "TITLE",
+          "text" : "SENIOR MANAGER BuSINESS DEVELOPMENT"
+        },
+        {
+          "id" : "B0C721AD-00CD-419C-B73A-6C5F97772F50",
+          "label" : "O",
+          "text" : "+62 812 1411 1737"
+        },
+        {
+          "id" : "C569065B-BBD3-4AB0-8D8E-F8F4E40F398A",
+          "label" : "O",
+          "text" : "RENDI.CASMONO@REPUBLIKORP.COM"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6378.HEIC",
+      "lines" : [
+        {
+          "id" : "200FC9E1-3754-4A45-98F3-358AD22AB808",
+          "label" : "O",
+          "text" : "NESTSTAR"
+        },
+        {
+          "id" : "68A371F0-C782-4365-A5D6-7BF247625E6E",
+          "label" : "NAME",
+          "text" : "Capt. Suardi Panai"
+        },
+        {
+          "id" : "93BC6D38-293C-4F8F-B776-BF06BA0676CB",
+          "label" : "TITLE",
+          "text" : "Director"
+        },
+        {
+          "id" : "400FEF64-1DDC-448C-B20A-01107AEBAD0D",
+          "label" : "ORG",
+          "text" : "PT. WESTSTAR AVIATION INDONESIA"
+        },
+        {
+          "id" : "97DFCC9B-3B14-4EA0-AFE5-11590FACEB82",
+          "label" : "ADDR",
+          "text" : "Grha Intirub, 2nd Floor, JI. Cililitan Besar No. 454"
+        },
+        {
+          "id" : "88BE1A45-D8AE-4265-82E6-B82A58E455CF",
+          "label" : "ADDR",
+          "text" : "Halim P.K - Jakarta 13650, Indonesia"
+        },
+        {
+          "id" : "40AB1A46-A2C3-4977-B289-7B47A755BF00",
+          "label" : "O",
+          "text" : "P : +6221 2937.3420 / +6221 2937 3423"
+        },
+        {
+          "id" : "DD78E29F-5F56-45FB-861D-8D47BB75CB17",
+          "label" : "O",
+          "text" : "F : +6221 29373421"
+        },
+        {
+          "id" : "588EE6BB-1EC4-4382-9B92-53AE462DB1FD",
+          "label" : "O",
+          "text" : "M : +62 811 8301 020 / +62 811 158 334"
+        },
+        {
+          "id" : "AC786F27-0454-4B01-B507-CA8950C8CF68",
+          "label" : "O",
+          "text" : "E : suardi.panai@weststar-aviation.aero"
+        },
+        {
+          "id" : "5AF143CB-48E6-4E61-A9F1-E80C4A47BE2D",
+          "label" : "O",
+          "text" : "capt.spanai@gmail.com"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6379.HEIC",
+      "lines" : [
+        {
+          "id" : "FBA1B5F0-78A6-4514-8E80-DCB5B2E5C75E",
+          "label" : "ORG",
+          "text" : "Ministry of"
+        },
+        {
+          "id" : "8602FA41-1DAA-495D-BFEE-E02CCDC981CF",
+          "label" : "ORG",
+          "text" : "National Defense"
+        },
+        {
+          "id" : "F4F3386A-D0B1-49AE-A8BA-79CD4F676AF1",
+          "label" : "ORG",
+          "text" : "Republic of Korea"
+        },
+        {
+          "id" : "D6642733-4A7F-4705-8B5B-A3EE55D6083E",
+          "label" : "DEPT",
+          "text" : "Defense Industry Cooperation Division"
+        },
+        {
+          "id" : "07A5DD14-317D-415E-88CA-5DB4235FAA19",
+          "label" : "TITLE",
+          "text" : "Deputy Director"
+        },
+        {
+          "id" : "64A319EB-9608-41D3-A3E3-D8C34EF12097",
+          "label" : "NAME",
+          "text" : "Kim Pilsoo"
+        },
+        {
+          "id" : "CBF9C15F-EA14-46F4-8B1A-18EFCC5CE31D",
+          "label" : "ADDR",
+          "text" : "22, Itaewon-ro, Yongsan-gu, Seoul, Korea 04383"
+        },
+        {
+          "id" : "DEDD388E-6A3D-4B4A-A231-3951CE515A04",
+          "label" : "O",
+          "text" : "Tel : +82-2-748-5428 Mobile : +82-10-8192-0521"
+        },
+        {
+          "id" : "EDA39341-13C1-4167-8823-4B6289C7ECA5",
+          "label" : "O",
+          "text" : "E-mail : kps922@korea.kr"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6380.HEIC",
+      "lines" : [
+        {
+          "id" : "3C922733-98E6-45EA-B038-C913D64AEA3F",
+          "label" : "ORG",
+          "text" : "Danantara"
+        },
+        {
+          "id" : "A4F25480-3F9B-42C4-AC19-55D745222AFE",
+          "label" : "ORG",
+          "text" : "Indonesia"
+        },
+        {
+          "id" : "2BFF527B-C788-4A70-A4AB-88F7D47EA25D",
+          "label" : "ORG",
+          "text" : "DIRGANTARA INDONESIA"
+        },
+        {
+          "id" : "6E340B0E-D620-4D4C-A2B4-B784272EB608",
+          "label" : "ORG",
+          "text" : "INDONESIAN AEROSPACE ((Aa)"
+        },
+        {
+          "id" : "6C559E3A-5A62-409A-966E-5219B4810BA7",
+          "label" : "O",
+          "text" : "A member of & DEFEND ID"
+        },
+        {
+          "id" : "92C5C834-4175-4828-8F1B-F77789BB1C3C",
+          "label" : "NAME",
+          "text" : "Mohamad Arif Faisal"
+        },
+        {
+          "id" : "3B38F2F2-02C5-4A98-ADC7-BCD586FE774A",
+          "label" : "O",
+          "text" : "Direktur Niaga, Teknologi dan Pengembangan"
+        },
+        {
+          "id" : "0B778E9B-D283-424A-824B-2918E8D0E73E",
+          "label" : "TITLE",
+          "text" : "Director of Commerce, Technology and Development"
+        },
+        {
+          "id" : "84D6B89B-0A32-4AFE-9C84-610E1B5D2F54",
+          "label" : "O",
+          "text" : "Phone : +62 22 605 5059"
+        },
+        {
+          "id" : "D27A8922-6439-4D6E-82B2-EDFF4CBCB58D",
+          "label" : "O",
+          "text" : "Mobile"
+        },
+        {
+          "id" : "E270A902-BAB9-447E-9302-FA3CB23BE0C5",
+          "label" : "O",
+          "text" : ": +62 811 953 764"
+        },
+        {
+          "id" : "33C498CA-0452-409B-B205-493776DA1D50",
+          "label" : "O",
+          "text" : "E-mail"
+        },
+        {
+          "id" : "AA16AA1A-F356-4755-A962-AAF80CD144F9",
+          "label" : "O",
+          "text" : ": mariffaisal@indonesian-aerospace.com"
+        },
+        {
+          "id" : "4C5186D3-DC71-4AFF-9100-E01C898FCDF1",
+          "label" : "O",
+          "text" : "Website"
+        },
+        {
+          "id" : "D9F2B796-D4DA-49CA-AB7C-DF44B2B9E874",
+          "label" : "O",
+          "text" : ": www.indonesian-aerospace.com"
+        },
+        {
+          "id" : "109C7F0F-D478-4D17-8251-F01BCDC2111E",
+          "label" : "O",
+          "text" : "Socmed : @officialptdi"
+        },
+        {
+          "id" : "ED6B8CC5-8AD3-492C-8C9C-F0065182F26C",
+          "label" : "O",
+          "text" : "Strong, Independent, Competitive"
+        },
+        {
+          "id" : "666C5677-BD32-4F56-B0EA-D2DB66998168",
+          "label" : "O",
+          "text" : "Competitive Technological Independence"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6381.HEIC",
+      "lines" : [
+        {
+          "id" : "C01FADF3-24E3-4222-BB72-9542CC85A8BA",
+          "label" : "O",
+          "text" : "WEST"
+        },
+        {
+          "id" : "812F6718-D74C-4A1B-ACD9-170E3026CF35",
+          "label" : "NAME",
+          "text" : "DATUK ANUAR BIN NOORDIN"
+        },
+        {
+          "id" : "A044FB18-F41F-498B-A947-B3F89413CC9D",
+          "label" : "TITLE",
+          "text" : "Chief Executive Officer"
+        },
+        {
+          "id" : "DE00BEA3-5513-45B8-8983-017ED1CDF28A",
+          "label" : "ORG",
+          "text" : "WESTSTAR GAP AVIATION LDA (1323300)"
+        },
+        {
+          "id" : "CAC862A3-8640-490A-97ED-79C833F1C33F",
+          "label" : "ADDR",
+          "text" : "Suite # 354B, Level 3, Timor Plaza,"
+        },
+        {
+          "id" : "2AEC89B0-46CB-4198-95FB-4539A309E4E0",
+          "label" : "ADDR",
+          "text" : "Bebonuk, Dili, Timor Leste."
+        },
+        {
+          "id" : "7F67CDC4-39FB-4F31-B4A7-DEA1668684F7",
+          "label" : "O",
+          "text" : "DID"
+        },
+        {
+          "id" : "E2F9D82F-F5A3-48DE-ADF5-0E3323CF4532",
+          "label" : "O",
+          "text" : ": +670 331 0953"
+        },
+        {
+          "id" : "544FA893-0E72-48DE-96C7-B682CBBBBC77",
+          "label" : "O",
+          "text" : "Fax"
+        },
+        {
+          "id" : "48038A1A-0AC2-44EF-8DD9-592E8A67CF0E",
+          "label" : "O",
+          "text" : ": +670 3310952"
+        },
+        {
+          "id" : "7CA6BCFA-0688-4075-A3DC-4F2D98D5CF74",
+          "label" : "O",
+          "text" : "Mobile"
+        },
+        {
+          "id" : "752E81FC-A4B2-4BA8-AB68-FE895C2D427D",
+          "label" : "O",
+          "text" : ": +6019-490 3412 / +6012-210 3412"
+        },
+        {
+          "id" : "1DDC9FCB-7D72-473A-BF39-7658B09FB4ED",
+          "label" : "O",
+          "text" : "Email"
+        },
+        {
+          "id" : "C23D1D06-2682-47BC-ABED-F8D20CAB1E92",
+          "label" : "O",
+          "text" : ":ananuar@weststar-aviation.aero"
+        },
+        {
+          "id" : "B0FA82B9-8F50-4D85-8824-97373CE12A27",
+          "label" : "O",
+          "text" : "Website"
+        },
+        {
+          "id" : "E36E106B-44AE-4F23-A15A-F010775528FC",
+          "label" : "O",
+          "text" : ": www.weststar-aviation.aero"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6382.HEIC",
+      "lines" : [
+        {
+          "id" : "D79039A1-3BCC-4A57-AADB-45801A4141EE",
+          "label" : "O",
+          "text" : "STSTR"
+        },
+        {
+          "id" : "C4FE7A22-ADC9-483E-B98F-94B0D82DC5E7",
+          "label" : "NAME",
+          "text" : "CAPT. ABDUL RASHID BIN OTHMAN"
+        },
+        {
+          "id" : "A741736C-AE71-4783-AF47-51C9718CFC51",
+          "label" : "TITLE",
+          "text" : "General Manager / Rotary Pilot"
+        },
+        {
+          "id" : "8D51EA9C-44BE-4BA0-AF22-25CD35DDA5AA",
+          "label" : "DEPT",
+          "text" : "Business Development"
+        },
+        {
+          "id" : "25612FD2-DE1C-48E5-89C9-9B49AE842F96",
+          "label" : "ORG",
+          "text" : "WESTSTAR AVIATION SERVICES SDN BHD (612066-P)"
+        },
+        {
+          "id" : "23BBAE77-26FD-4CE5-9D9A-3FCF45A87C5D",
+          "label" : "ADDR",
+          "text" : "Level 9, Menara Weststar, Dataran Weststar,"
+        },
+        {
+          "id" : "F97FD1A7-FBA4-418E-BA84-08881CA51ACE",
+          "label" : "ADDR",
+          "text" : "Jalan Lingkaran Tengah II, 68000 Ampang, Selangor, Malaysia"
+        },
+        {
+          "id" : "00AE7DB4-5273-45A7-9922-E6F75CF415A5",
+          "label" : "O",
+          "text" : "DID"
+        },
+        {
+          "id" : "2EA00F44-BB32-46A2-B38F-7BCD998E16F2",
+          "label" : "O",
+          "text" : ":+603-41022222 (Ext: 2360)"
+        },
+        {
+          "id" : "71D5E475-EA63-48C8-9269-8A8F2551287D",
+          "label" : "O",
+          "text" : "Fax"
+        },
+        {
+          "id" : "FD0F3F7E-9C72-4968-9872-7D249EC0DB8A",
+          "label" : "O",
+          "text" : ": +603-4105 5933"
+        },
+        {
+          "id" : "3D7E2153-CA76-4464-B0A1-971B8DF0D351",
+          "label" : "O",
+          "text" : "Mobile : +6012-238 5580"
+        },
+        {
+          "id" : "00F1F2D9-BCFC-478A-9C8F-CB10503EEFFE",
+          "label" : "O",
+          "text" : "Email"
+        },
+        {
+          "id" : "E8D54AA3-D1B4-46A5-B87A-453F73538CF6",
+          "label" : "O",
+          "text" : ": rashid.othman@weststar-aviation.aero"
+        },
+        {
+          "id" : "F2ECD65B-35CF-4A80-A4E6-95DD22C6F49D",
+          "label" : "O",
+          "text" : "Website : www.weststar-aviation.aero"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6383.HEIC",
+      "lines" : [
+        {
+          "id" : "F66BB297-7DB2-4B61-8B71-EE844F52E7BE",
+          "label" : "ORG",
+          "text" : "Japan General Aviation Service"
+        },
+        {
+          "id" : "585C9AF0-B1E1-4745-B056-FBBD3F9D6EDA",
+          "label" : "O",
+          "text" : "https://www.jgas.com"
+        },
+        {
+          "id" : "282AA1B1-7640-4C5E-AB72-32786332E59D",
+          "label" : "ORG",
+          "text" : "JGAS"
+        },
+        {
+          "id" : "0BEB468B-4994-4051-8B37-F3E29BAD9FEA",
+          "label" : "ORG",
+          "text" : "Japan General Aviation Service"
+        },
+        {
+          "id" : "7C901A49-F371-4A3E-9F5C-3AB8B46D2169",
+          "label" : "O",
+          "text" : "Safety and Good Flight Always"
+        },
+        {
+          "id" : "79A126CA-3088-4E6F-90BB-5DD2DD9EDB2E",
+          "label" : "NAME",
+          "text" : "Keita Suzuki"
+        },
+        {
+          "id" : "E70150FA-560B-4677-B3F0-1DE8B862C5BE",
+          "label" : "O",
+          "text" : "E-mail : suzuki.8tka@jgas.com"
+        },
+        {
+          "id" : "1936F172-E526-48ED-B130-DA4004737FF5",
+          "label" : "O",
+          "text" : "*IT£*t Japan General Aviation Service"
+        },
+        {
+          "id" : "0CC94DE6-180B-4B32-ABF0-E63D6AAC7BA2",
+          "label" : "O",
+          "text" : "**"
+        },
+        {
+          "id" : "FB32EB8E-4A87-4013-B71E-C6CC472B10A9",
+          "label" : "O",
+          "text" : "т 107-0061"
+        },
+        {
+          "id" : "D686EC3D-BB0F-4DEB-983B-6B21AAC92B4B",
+          "label" : "O",
+          "text" : "™ 144-0041 *#X--2"
+        },
+        {
+          "id" : "E5C3583D-194A-46ED-A2F3-CF753DDDD0C9",
+          "label" : "O",
+          "text" : "5 PE"
+        },
+        {
+          "id" : "3C937945-18B5-4977-8AFA-C5129B019A1C",
+          "label" : "O",
+          "text" : "Tel: 03-5778-5285 Fax: 03-5778-5286"
+        },
+        {
+          "id" : "F007FDA8-876E-440D-9582-0BCF6A6C76DA",
+          "label" : "O",
+          "text" : "Tel: 03-5708-7111 Fax: 03-5708-7112"
+        },
+        {
+          "id" : "801232EB-01C7-4807-8371-09288C69C99A",
+          "label" : "O",
+          "text" : "Aircraft and Parts sales. Aircraft Maintenance. Flight Training."
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6384.HEIC",
+      "lines" : [
+        {
+          "id" : "206794E6-4319-408C-962E-104BE60E0212",
+          "label" : "ORG",
+          "text" : "ST Engineering"
+        },
+        {
+          "id" : "BAF6CA6E-0206-48C6-802C-FF0D45650022",
+          "label" : "NAME",
+          "text" : "NG Yuh Jaan"
+        },
+        {
+          "id" : "A5964CDA-4080-4C6B-9449-EBE6072AC373",
+          "label" : "TITLE",
+          "text" : "Senior Vice President/General Manager"
+        },
+        {
+          "id" : "874E2A6C-1308-4F28-85AF-90B0B4D0DF48",
+          "label" : "DEPT",
+          "text" : "Engineering Solutions"
+        },
+        {
+          "id" : "48D39F5B-8EE8-46A4-BBDA-5A2CBC242450",
+          "label" : "DEPT",
+          "text" : "Defence Aerospace"
+        },
+        {
+          "id" : "0B1979D6-0A25-4E17-8835-FF7ACF6703D5",
+          "label" : "O",
+          "text" : "1: (65) 6380 6500D: 65) 63806256 M: (65) 9488 1896"
+        },
+        {
+          "id" : "B72B4CCD-1542-4F11-B8A3-380FBE5675A8",
+          "label" : "O",
+          "text" : "E: yuhjaan@stengg.com"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6385.HEIC",
+      "lines" : [
+        {
+          "id" : "30788A27-BA2C-4EEC-97BC-8038A5BDE9F6",
+          "label" : "O",
+          "text" : "(559308-T)"
+        },
+        {
+          "id" : "2C5F8D8E-D468-44C7-BA82-0EAE539EF748",
+          "label" : "ORG",
+          "text" : "Powertium™"
+        },
+        {
+          "id" : "D9221324-DDCB-4097-B6E1-585601EDEA81",
+          "label" : "ORG",
+          "text" : "Engineering Sdn. Bhd."
+        },
+        {
+          "id" : "5F065D14-EAF6-4D6A-98DA-92C04CA19E07",
+          "label" : "ORG",
+          "text" : "A PETRONAS Licensed Company (L-559308-T)"
+        },
+        {
+          "id" : "CB618EE5-CC47-42B4-9BC1-776EC7E7B1D2",
+          "label" : "O",
+          "text" : "\"Supporting & Delivering Engineering & Marine"
+        },
+        {
+          "id" : "4D53A894-D2C9-4704-9BE8-C78A5BC51648",
+          "label" : "O",
+          "text" : "Services for the Global Oil and Gas Industry\""
+        },
+        {
+          "id" : "F16C4468-7CE8-4C3E-A5C6-3B871E09F696",
+          "label" : "ADDR",
+          "text" : "Head Office"
+        },
+        {
+          "id" : "DDD091F5-47D9-4468-97C8-E02B356C8667",
+          "label" : "ADDR",
+          "text" : "A 32-6, Level 32"
+        },
+        {
+          "id" : "A10D4027-6871-4B38-AE8C-ED1ECEBD7083",
+          "label" : "ADDR",
+          "text" : "Tower A, Menara UOA Bangsar"
+        },
+        {
+          "id" : "9CF6B802-3B4C-48AE-942D-9DD180927FD9",
+          "label" : "ADDR",
+          "text" : "No. 5, Jalan Bangsar Utama 1"
+        },
+        {
+          "id" : "E2238BC6-2DB6-4F3E-ADAC-64B701452600",
+          "label" : "ADDR",
+          "text" : "59000 Kuala Lumpur, MALAYSIA"
+        },
+        {
+          "id" : "3FA0C03E-5CF9-44DF-B67D-637530796860",
+          "label" : "O",
+          "text" : "* Tel"
+        },
+        {
+          "id" : "38D95C44-BA88-415D-BEAD-7E10436AB0C5",
+          "label" : "O",
+          "text" : ": +6 (03) 2288 1622"
+        },
+        {
+          "id" : "F2F7688F-E559-42C5-8A82-D8B0C9113C8D",
+          "label" : "O",
+          "text" : "S Fax"
+        },
+        {
+          "id" : "605EE0A6-DF5E-4FB5-A686-92618EC70A55",
+          "label" : "O",
+          "text" : ": +6 (03) 2288 1722"
+        },
+        {
+          "id" : "7CE74D52-1FF9-46B6-B1F7-9B6B403C62EF",
+          "label" : "O",
+          "text" : "IAS-ANZ"
+        },
+        {
+          "id" : "7F5948C6-C0DB-4EB8-A9FC-851241C939CD",
+          "label" : "NAME",
+          "text" : "DATO' ABDUL AZIZ ALI"
+        },
+        {
+          "id" : "6BBF005C-BF4C-43C7-8F86-C9CD681C822A",
+          "label" : "TITLE",
+          "text" : "Executive Chairman"
+        },
+        {
+          "id" : "CAD92503-9D61-4CBB-83C5-15019654D9E1",
+          "label" : "O",
+          "text" : "E +6(019)224 9999"
+        },
+        {
+          "id" : "8DBE06EB-1C15-467D-AE17-C9F65FC117E0",
+          "label" : "O",
+          "text" : "& E-mail : azizali@powertium.com"
+        },
+        {
+          "id" : "1E7FC1C6-B129-4FCA-8212-AFADB7AD3385",
+          "label" : "O",
+          "text" : "aziz.aa60@gmail.com"
+        },
+        {
+          "id" : "EC137CA5-E08B-4C41-A144-F0A1EAC04FDE",
+          "label" : "O",
+          "text" : "• Website : www.powertium.com"
+        },
+        {
+          "id" : "F6C0426D-3A3E-4A28-8D19-E0BAC559C88C",
+          "label" : "ADDR",
+          "text" : "Branch Office"
+        },
+        {
+          "id" : "EA4152A8-2220-429C-9B45-93037A607B6C",
+          "label" : "ADDR",
+          "text" : "• No. 85-1, Jalan Masai Utama 1"
+        },
+        {
+          "id" : "4EB04FE2-BB34-4EE0-A218-0B834D670C2D",
+          "label" : "ADDR",
+          "text" : "Taman Masai Utama"
+        },
+        {
+          "id" : "55FC5E5D-2805-46E3-BC62-E6253CEB1461",
+          "label" : "ADDR",
+          "text" : "81750 Masai, Johor Darul Takzim"
+        },
+        {
+          "id" : "2C7E3A48-7485-4DCA-987B-E89C9FD037D7",
+          "label" : "ADDR",
+          "text" : "MALAYSIA"
+        },
+        {
+          "id" : "08205385-9653-4A97-852B-51FD6B11BA8C",
+          "label" : "O",
+          "text" : "* Tel"
+        },
+        {
+          "id" : "4D887432-742D-41D8-94E9-CDA8CBC93BDF",
+          "label" : "O",
+          "text" : ": +6 (07) 255 1622"
+        },
+        {
+          "id" : "C82A91B2-D7F4-4678-AE1D-574D37929F3B",
+          "label" : "O",
+          "text" : "Fax"
+        },
+        {
+          "id" : "C69CD9A9-5882-49E9-A91D-7DC2E06D28E1",
+          "label" : "O",
+          "text" : ": +6 (07) 255 2622"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6386.HEIC",
+      "lines" : [
+        {
+          "id" : "A0A32D88-BBC3-4106-87AF-040E75F205B6",
+          "label" : "ORG",
+          "text" : "MUBADALA"
+        },
+        {
+          "id" : "1AD26022-E921-4932-9F3A-0358D2C931D2",
+          "label" : "NAME",
+          "text" : "Amer J Siddiqui"
+        },
+        {
+          "id" : "39A680D7-EE2B-4C40-BB27-203833A92550",
+          "label" : "TITLE",
+          "text" : "Executive Director - UAE Clusters"
+        },
+        {
+          "id" : "EE62C7E7-6305-4F40-AD75-9DD63999BAB6",
+          "label" : "DEPT",
+          "text" : "UAE Investments"
+        },
+        {
+          "id" : "8F771749-1EAE-440F-AAB8-25FF1B0DA5E7",
+          "label" : "ADDR",
+          "text" : "PO Box 45005, Abu Dhabi, UAE"
+        },
+        {
+          "id" : "16EA45C0-676A-49FB-82C2-86CB04C64DEE",
+          "label" : "O",
+          "text" : "T +971 2 413 0000"
+        },
+        {
+          "id" : "3F5469CB-8DB5-4339-8252-1A4593DEAFD3",
+          "label" : "O",
+          "text" : "D +971 2 413 1668"
+        },
+        {
+          "id" : "F48D4986-3A25-4030-814E-D6778F6CCE56",
+          "label" : "O",
+          "text" : "M +971 55 7000 101"
+        },
+        {
+          "id" : "6BEA10F8-7DB5-49C3-B00F-5EC551B9B7E6",
+          "label" : "O",
+          "text" : "ajsiddiqui@mubadala.ae"
+        },
+        {
+          "id" : "DA88CDC5-6FB7-4850-AE76-BBE2DD5E5C66",
+          "label" : "O",
+          "text" : "mubadala.com"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6387.HEIC",
+      "lines" : [
+        {
+          "id" : "98A27E7B-D03B-4181-8CF2-744B5011FAF4",
+          "label" : "ORG",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "990CA9D8-59A8-4D13-878D-B12436AE9A66",
+          "label" : "DEPT",
+          "text" : "Brazil Defense Attaché Office"
+        },
+        {
+          "id" : "B6EBAB06-F6A1-4E78-B435-DD17BE34E9F2",
+          "label" : "DEPT",
+          "text" : "Abu Dhabi - United Arab Emirates"
+        },
+        {
+          "id" : "58E979F0-DAAA-4A98-8722-51B38583E859",
+          "label" : "NAME",
+          "text" : "Colonel Carlos Otávio Macedo de Sousa"
+        },
+        {
+          "id" : "1F016CC7-B383-446C-A830-DA418A4D25BD",
+          "label" : "TITLE",
+          "text" : "Brazil Defense Attaché in the United Arab Emirates,"
+        },
+        {
+          "id" : "FB8A50EB-8B23-4151-AACA-2E258D8D1B2B",
+          "label" : "TITLE",
+          "text" : "Kingdom of Saudi Arabia and the Republic of Iraq"
+        },
+        {
+          "id" : "EAD683D0-718A-43BA-BAF9-AADEBE645711",
+          "label" : "ORG",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "2B652755-CF0D-496F-9E02-ADEC6DC936BC",
+          "label" : "O",
+          "text" : "Mob : +971 50 224 6899"
+        },
+        {
+          "id" : "8AACD8E5-3F9D-4468-BE4E-5306EA6FB9C0",
+          "label" : "ADDR",
+          "text" : "C3 Tower - Al Bateen"
+        },
+        {
+          "id" : "43D30AFD-7183-4FB3-8E4C-0222494ED2C2",
+          "label" : "ADDR",
+          "text" : "P.O. Box 3027"
+        },
+        {
+          "id" : "A9AEA13F-270D-427D-A52D-52BC20791D8F",
+          "label" : "ADDR",
+          "text" : "Abu Dhabi - UAE"
+        },
+        {
+          "id" : "2B70E26E-0B68-4C92-9866-4E05460D997A",
+          "label" : "O",
+          "text" : "E-mail: adidef.eau@defesa.gov.br"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6388.HEIC",
+      "lines" : [
+        {
+          "id" : "52EEC73A-3ED1-4ACB-AD57-A4CCCA8C3B40",
+          "label" : "NAME",
+          "text" : "Paulo Uchoa"
+        },
+        {
+          "id" : "2BA7F09B-6844-4D76-8333-4911E51FE2B9",
+          "label" : "TITLE",
+          "text" : "Ambassador of Brazil"
+        },
+        {
+          "id" : "35444464-58C9-4A9C-903B-5FBF675FF2FF",
+          "label" : "TITLE",
+          "text" : "Kingdom of Saudi Arabia"
+        },
+        {
+          "id" : "052996BE-35EE-473B-B658-69D86FA52D03",
+          "label" : "O",
+          "text" : "+966 57 367 7767"
+        },
+        {
+          "id" : "F4D1ED1F-207B-467B-866B-C747AF4C20F9",
+          "label" : "O",
+          "text" : "paulo.uchoa@itamaraty.gov.br"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6389.HEIC",
+      "lines" : [
+        {
+          "id" : "308F72A4-2222-42E1-8511-998722387FA9",
+          "label" : "ORG",
+          "text" : "EMBRAER"
+        },
+        {
+          "id" : "C50B1273-3595-4DDD-A444-59FBEFFF38C6",
+          "label" : "NAME",
+          "text" : "CAETANO SPULDARO NETO"
+        },
+        {
+          "id" : "0C6918A6-38E7-4284-A4DF-2AE2E601DC8C",
+          "label" : "TITLE",
+          "text" : "Vice-President"
+        },
+        {
+          "id" : "09CFE5A2-0FAD-4049-AA75-F5B00C340D60",
+          "label" : "DEPT",
+          "text" : "Sales & Business Development"
+        },
+        {
+          "id" : "20084FDA-86D8-4DE9-BDDA-C1F23201625D",
+          "label" : "DEPT",
+          "text" : "Middle East & Asia Pacific"
+        },
+        {
+          "id" : "F9B0A999-729D-47BC-8AE9-BA04685AC344",
+          "label" : "ORG",
+          "text" : "Embraer Defense & Security"
+        },
+        {
+          "id" : "99FF3B2A-0FDE-4480-AC93-AABC7193DF30",
+          "label" : "O",
+          "text" : "caetano.neto@embraer.com.br"
+        },
+        {
+          "id" : "E944B9E3-924B-4C9B-ABD0-3BE1D67ADFC8",
+          "label" : "O",
+          "text" : "+971 52 890 0272"
+        },
+        {
+          "id" : "FAAE4FC1-5372-4F33-9549-1C519FB2054E",
+          "label" : "ADDR",
+          "text" : "Al-Thuraya Tower 1, Office 1004"
+        },
+        {
+          "id" : "A2BF892D-49D2-42A1-B0B3-A2B88650F326",
+          "label" : "ADDR",
+          "text" : "DMC, PO Box 502712, UAE"
+        },
+        {
+          "id" : "A0023FFC-24DF-41E7-812D-20B17D476163",
+          "label" : "O",
+          "text" : "@y in embraerds.com"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6390.HEIC",
+      "lines" : [
+        {
+          "id" : "5A3E7097-4CAF-4F5A-8618-BAD0807E1C33",
+          "label" : "NAME",
+          "text" : "Dr. Khalifa AlBlooshi"
+        },
+        {
+          "id" : "A8160A96-7FE8-4C84-A8E2-FE863D57C0BF",
+          "label" : "TITLE",
+          "text" : "MD & Group CEO"
+        },
+        {
+          "id" : "A6233D3F-CCD2-4827-B88F-C9A482638D55",
+          "label" : "O",
+          "text" : "T. +971 2 412 5555"
+        },
+        {
+          "id" : "6D7CCB83-5AC7-48D1-A97E-29B4D9D6E563",
+          "label" : "O",
+          "text" : "M.+971 52 424 4444"
+        },
+        {
+          "id" : "02EC9DDA-ACF1-4BF3-B425-3CA651CC6F1A",
+          "label" : "O",
+          "text" : "khalifa@calidus.ae"
+        },
+        {
+          "id" : "5F138DF2-42E0-4993-A764-F2FBDCAB3FF3",
+          "label" : "O",
+          "text" : "www.calidus.ae"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6391.HEIC",
+      "lines" : [
+        {
+          "id" : "89E79158-05B6-4CEC-A7C5-309B5CA68DC8",
+          "label" : "NAME",
+          "text" : "Maria Eduarda de Seixas Corrêa"
+        },
+        {
+          "id" : "CE600C4A-A1C7-4156-8EFB-6715DB2D02D9",
+          "label" : "TITLE",
+          "text" : "Counsellor"
+        },
+        {
+          "id" : "A5690E35-DD38-4674-97A4-6BADCD8CAA96",
+          "label" : "ORG",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "57E045BF-9E6B-4AF3-8032-DB4CAA1473FE",
+          "label" : "ADDR",
+          "text" : "2005C Corniche El Nil, Nile City"
+        },
+        {
+          "id" : "40747AA7-2B9B-48FA-9325-FCEB39CBA234",
+          "label" : "ADDR",
+          "text" : "North Tower, 18th Floor,"
+        },
+        {
+          "id" : "5F397AB7-32A9-4689-BB8C-B39ED7E19573",
+          "label" : "ADDR",
+          "text" : "Ramlet Boulac, Cairo, Egypt"
+        },
+        {
+          "id" : "039D4D82-C6C1-4D41-927F-B77D18E1563A",
+          "label" : "O",
+          "text" : "Mob.: +20 12 8167 7000"
+        },
+        {
+          "id" : "52500A15-0346-4900-A1DC-58CE3075C857",
+          "label" : "O",
+          "text" : "eduarda.correa@itamaraty.gov.br"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6392.HEIC",
+      "lines" : [
+        {
+          "id" : "967877A6-9BD8-4BE9-A46B-107F9FF528DA",
+          "label" : "ORG",
+          "text" : "Brazilian Embassy in Egypt"
+        },
+        {
+          "id" : "A8B70E02-012B-4B5B-8697-2B2E48E2E86A",
+          "label" : "DEPT",
+          "text" : "Defense Attaché Office"
+        },
+        {
+          "id" : "3501BED3-F4B8-4423-AD17-DC5F9655E9C5",
+          "label" : "NAME",
+          "text" : "COL OTONIEL ALVES DO NASCIMENTO"
+        },
+        {
+          "id" : "291EE130-D55A-4CB4-A8DF-0A84FAF8CC65",
+          "label" : "TITLE",
+          "text" : "Brazilian Defense Attaché"
+        },
+        {
+          "id" : "FCAC5C91-8933-4048-A361-FA3F4E3721E4",
+          "label" : "O",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "E00A93D6-2FB3-46DE-8E49-BAFEDC13A43B",
+          "label" : "ADDR",
+          "text" : "2005 C, Corniche El Nile"
+        },
+        {
+          "id" : "44848A29-8718-43A5-8E7B-303A5F19B241",
+          "label" : "ADDR",
+          "text" : "Nile City Towers - North Tower"
+        },
+        {
+          "id" : "19A4DC75-E97D-4F34-A09B-3C50954974B7",
+          "label" : "ADDR",
+          "text" : "18t Floor - Ramlet Boulak - Cairo-Egypt"
+        },
+        {
+          "id" : "3871DCEE-2E5D-454B-8FA5-A5B7101436AE",
+          "label" : "O",
+          "text" : "Tel/Fax: +20 2 2461 9839"
+        },
+        {
+          "id" : "B8A7638A-E097-4683-A5C6-7077167478E3",
+          "label" : "O",
+          "text" : "Mobile: +20 122 327 7437"
+        },
+        {
+          "id" : "2CA921E6-3213-4859-87B7-FEDD96D811A8",
+          "label" : "O",
+          "text" : "E-mail : adidef.egito@defesa.gov.br"
+        },
+        {
+          "id" : "7033DF16-C669-4CDA-92DB-1FF514D65FB1",
+          "label" : "O",
+          "text" : "attache.br.eg@gmail.com"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6393.HEIC",
+      "lines" : [
+        {
+          "id" : "F80E499E-76EC-4E38-823B-5EF4F0C9AA8B",
+          "label" : "NAME",
+          "text" : "Paulino Franco de Carvalho Neto"
+        },
+        {
+          "id" : "79248536-41B0-45D7-9E40-475CA7C1B364",
+          "label" : "TITLE",
+          "text" : "Ambassador"
+        },
+        {
+          "id" : "1E851B33-AAC6-47CD-BAFC-76D863BC7175",
+          "label" : "ORG",
+          "text" : "Embassy of Brazil"
+        },
+        {
+          "id" : "31AB00F6-47DB-489F-9F12-D91D79D193C0",
+          "label" : "ADDR",
+          "text" : "2005C Corniche El Nil, Nile"
+        },
+        {
+          "id" : "0F6DE06E-95A7-418E-8266-A261E8C42103",
+          "label" : "ADDR",
+          "text" : "City North Tower, 18th Floor,"
+        },
+        {
+          "id" : "65184AFE-0E64-4E2E-89C0-DAE9012A8D7D",
+          "label" : "ADDR",
+          "text" : "Ramlet Boulac, Cairo, Egypt"
+        },
+        {
+          "id" : "977009D8-FDE5-44CC-82B9-1A948C34B3C7",
+          "label" : "O",
+          "text" : "Tel.: +20(2)2461 9845"
+        },
+        {
+          "id" : "8C968C51-199F-4955-A3E9-352F5E2DE7E3",
+          "label" : "O",
+          "text" : "Mob.: +20 127 906 1686"
+        },
+        {
+          "id" : "AA38B486-48D1-4490-A3BF-28CF456EF9EB",
+          "label" : "O",
+          "text" : "paulino.carvalho@itamaraty.gov.br"
+        },
+        {
+          "id" : "1243A3CF-3DF3-497F-AA7F-2BB08D122A28",
+          "label" : "O",
+          "text" : "ambassador.cairo@itamaraty.gov.br"
+        }
+      ]
+    },
+    {
+      "filename" : "IMG_6394.HEIC",
+      "lines" : [
+        {
+          "id" : "11BDB432-AC3E-4149-811C-F7E44986EB40",
+          "label" : "ORG",
+          "text" : "AEROSPACE HUB"
+        },
+        {
+          "id" : "0600EA54-3189-4F04-8E8A-63C49756D535",
+          "label" : "ORG",
+          "text" : "CORPORATION FZCO L.L.C"
+        },
+        {
+          "id" : "757843D9-74AF-49C2-B444-B072A3F14208",
+          "label" : "NAME",
+          "text" : "Jamal Saeed Alnuaimi"
+        },
+        {
+          "id" : "FA67848C-C50A-4866-AE29-60629EC4289D",
+          "label" : "TITLE",
+          "text" : "Chairman"
+        },
+        {
+          "id" : "3CBD1B04-BE1A-4DB1-82E1-2D561D3C80D7",
+          "label" : "O",
+          "text" : "+971 4 254 2828"
+        },
+        {
+          "id" : "17B37D21-4EE2-4594-AD46-62E19F6E78F5",
+          "label" : "O",
+          "text" : "chairman@aerospacehub.co"
+        },
+        {
+          "id" : "0399D2BB-C782-49BE-9E3C-C9000E44AF7E",
+          "label" : "O",
+          "text" : "+971 50 641 4232"
+        },
+        {
+          "id" : "79D022F6-564E-480D-8AA3-E0647925A94B",
+          "label" : "ADDR",
+          "text" : "Office No.G-49, 4 West Building,"
+        },
+        {
+          "id" : "817DF273-D439-4A7D-98DB-4CEA1AE73AC2",
+          "label" : "ADDR",
+          "text" : "Dubai Airport Freezone"
+        },
+        {
+          "id" : "105FAECD-8142-4350-85F5-7FE3BBBBC8BD",
+          "label" : "ADDR",
+          "text" : "P.O.Box: 22633"
+        }
+      ]
+    }
+  ],
+  "version" : "1.0"
+}
