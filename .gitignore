@@ -1,0 +1,9 @@
+# Ignore all files in Deployment folder
+CardLabeling/Deployment/*
+
+# Ignore QuantizedModels folder
+CardLabeling/QuantizedModels/
+
+# Ignore HEIC images
+*.HEIC
+*.heic
